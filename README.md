@@ -27,7 +27,7 @@ The game begins with a shuffled deck of 52 cards, and you will need to move them
 ### Winning the Game:
 The game is won once all the cards are moved to the foundation piles in ascending order, starting from Ace to King, for each suit.
 
-##Contributing:
+## Contributing:
 Feel free to fork this repository, submit issues, or create pull requests if you'd like to contribute to improving the game!
 
    
