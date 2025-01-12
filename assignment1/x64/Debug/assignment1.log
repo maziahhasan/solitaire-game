@@ -1,0 +1,6 @@
+﻿  23L-0795.cpp
+C:\Users\SMZ\source\repos\assignment1\23L-0795.cpp(1294,14): warning C4101: 'fazool': unreferenced local variable
+C:\Users\SMZ\source\repos\assignment1\23L-0795.cpp(1438,14): warning C4101: 'fazool': unreferenced local variable
+C:\Users\SMZ\source\repos\assignment1\23L-0795.cpp(1868,1): warning C4715: 'game::performCommand': not all control paths return a value
+C:\Users\SMZ\source\repos\assignment1\23L-0795.cpp(1328,1): warning C4715: 'game::movefoundationtoColumns': not all control paths return a value
+  assignment1.vcxproj -> C:\Users\SMZ\source\repos\assignment1\x64\Debug\assignment1.exe

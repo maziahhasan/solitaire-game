@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SMZ\\source\\repos\\assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB50463-2865-44E6-BFD9-2AF2D88CD687}|assignment1.vcxproj|C:\\Users\\SMZ\\source\\repos\\assignment1\\solitaire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB50463-2865-44E6-BFD9-2AF2D88CD687}|assignment1.vcxproj|solutionrelative:solitaire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solitaire.cpp",
+              "DocumentMoniker": "C:\\Users\\SMZ\\source\\repos\\assignment1\\solitaire.cpp",
+              "RelativeDocumentMoniker": "solitaire.cpp",
+              "ToolTip": "C:\\Users\\SMZ\\source\\repos\\assignment1\\solitaire.cpp",
+              "RelativeToolTip": "solitaire.cpp",
+              "ViewState": "AQIAALwBAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T04:11:57.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
